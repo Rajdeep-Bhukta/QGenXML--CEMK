@@ -92,7 +92,7 @@ sudo apt install python3-tk
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git](https://github.com/Rajdeep-Bhukta/QGenXML--CEMK.git
 ```
 
 Navigate to the project directory:
